@@ -24,7 +24,7 @@ main()
 
         std::cout << cstr;
 
-        system(cstr.c_str());
+        system(cstr.c_str());//system command this tested on Windows 10.
         
     } while (true);
 };
