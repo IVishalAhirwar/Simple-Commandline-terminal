@@ -2,6 +2,7 @@
 #include <iostream>
 main()
 {
+    system("color 90");
     std::cout << "\t\t\t\t---------------------------------------------------\n"
                  "\t\t\t\t|                 [by Vishal Ahirwar]              |\n"
                  "\t\t\t\t|         [ Developed in C++ Date : 20.06.21]      |\n"
